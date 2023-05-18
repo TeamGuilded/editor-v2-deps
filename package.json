@@ -8,6 +8,6 @@
   "dependencies": {
     "slate": "0.91.4",
     "slate-history": "0.93.0",
-    "slate-react": "0.92.0"
+    "slate-react": "0.93.0"
   }
 }
